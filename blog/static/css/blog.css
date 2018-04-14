@@ -41,14 +41,8 @@ p, h1, h2, h2 {
 
 }
 
-.superleft {
+.newpost{
 
-    float: left;
-
-}
-
-.superright {
-
-    float: right;
+  padding: 1rem;
 
 }
